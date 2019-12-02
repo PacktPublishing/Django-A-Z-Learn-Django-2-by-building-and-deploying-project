@@ -1,0 +1,4 @@
+https://github.com/
+https://www.heroku.com/
+https://git-scm.com/downloads
+https://devcenter.heroku.com/articles/getting-started-with-python#set-up
